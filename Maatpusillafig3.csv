@@ -1,0 +1,108 @@
+﻿id,organism,control,time,abundance,logscale,treatment,algalHost
+Maat3BHL,H,FALSE,0.077,971290,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,6.0584,898400,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,12.0369,902750,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,18.0228,712540,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,24.0161,324800,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,30,188060,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,36.0393,89925.0132,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,47.9426,9506.0142,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,0,1039600,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,6.0356,960400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,12.0142,1113900,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,18.0498,925740,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,24.0285,1198000,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,29.9502,1326700,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,35.9858,1158400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,48,955450,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,71.9715,930690,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,0.0128,8613900,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,3.0128,7524800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,6.0128,7722800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,9.0128,8316800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,12.0128,10495000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,15.0128,23861000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,17.9872,39693000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,20.9565,48315000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,24.04,66006000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,36.0314,90238000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,48.0228,86075000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,0.0163,1069300,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,6.0532,1035000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,11.9781,953240,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,18.0215,746700,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,24.0187,256480,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,30.0025,122710,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,35.9834,61708.2285,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,47.9999,2079.2094,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,0,1138600,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,6.0356,1069300,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,11.9573,1217800,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,17.9929,1257400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,24.0285,1391100,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,30.0071,1306900,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,35.9858,1470300,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,47.9431,1163400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,71.9146,1133700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,0.0128,8415800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,3.0128,7128700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,6.0128,6930700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,9.0256,8019800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,12,19604000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,15.0128,33663000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,17.9872,56046000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,20.8994,86670000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,23.9828,83399000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,29.9215,90833000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,35.9743,100200000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,48.0228,90387000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,72.1199,92022000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,0.0171,1050000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,5.9952,1061800,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,11.9777,962150,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,18.0764,800160,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,24.0127,415400,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,29.9994,204390,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,36.0391,94380.4618,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,47.9425,15446.6125,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,71.9146,150.1005,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,0,1059400,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,6.0356,1049500,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,11.9573,1207900,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,17.9929,1252500,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,24.0285,1420800,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,29.9502,1509900,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,36.0427,1064400,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,47.9431,1396000,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,71.9146,1272300,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,0.0128,8316800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,3.0128,6930700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,6.0128,7128700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,9.0128,8118800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,12.0128,32871000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,15.0128,40495000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,17.93,56046000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,20.9565,68831000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,23.9828,70763000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,30.0357,106740000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,35.9743,102280000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,48.0799,88305000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,72.0628,92914000,FALSE,P-Limited,Micromonas Pusilla
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
